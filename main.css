@@ -1,0 +1,91 @@
+body {
+  background: 
+    url("http://www.guichamps.com/_Data/skins/4/41/441954/8/55/(0)55.58.jpg") no-repeat center center fixed;
+  background-size: cover;
+  font-family: 'Source Sans Pro', sans-serif;    
+}
+
+.Intro {
+  position: relative;
+  top: 180px;
+  left: 170px;
+  text-align: center;
+}
+
+#Home {
+  border: 2px solid #D2D2D2;
+  border-radius: 10px;
+}
+
+#Home a {
+  text-decoration: none;
+  color: #D2D2D2;
+}
+
+.activeH {
+  background-color: #D2D2D2;
+}
+
+span {
+  color: #ffffff;  
+}
+
+#About {
+  border: 2px solid #5CD6FF;
+  border-radius: 10px;
+}
+
+#About a {
+  text-decoration: none;
+  color: #5CD6FF;
+}
+
+.activeA {
+  background-color: #5CD6FF;
+}
+
+#Projects {
+  border: 2px solid #7DE5B1;
+  border-radius: 10px;
+}
+
+#Projects a {
+  text-decoration: none;
+  color: #7DE5B1;    
+}
+
+.activeP {
+  background-color: #7DE5B1;
+}
+
+#Contact {
+  border: 2px solid #FF9147;
+  border-radius: 10px;
+}
+
+#Contact a {
+  text-decoration: none;
+  color: #FF9147;    
+}
+
+.activeC {
+  background-color: #FF9147;
+}
+
+.background-white { 
+  background: #FFFFFF; 
+}
+
+.background-blue {
+  background: #5CD6FF;   
+}
+
+.background-green {
+  background: #7DE5B1;    
+}
+
+.toProject {
+  text-decoration: none;
+  backround: #7DE5B1;
+  position: center;    
+}
